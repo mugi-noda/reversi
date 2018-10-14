@@ -1,4 +1,4 @@
-//g++ main.cpp  -std=c++11 -O3 -mtune=native -march=native -flto
+//g++ league.cpp  -std=c++11 -O3 -mtune=native -march=native -flto -o league
 #include "Game/Game.hpp"
 #include "Match/Match.hpp"
 #include <vector>
