@@ -1,4 +1,4 @@
-//g++ cui.cpp -std++11 -O3 -mtune=native -march=native -flto
+//g++ cui.cpp -std++11 -O3 -mtune=native -march=native -flto -o cui
 #include "Game/Game.hpp"
 
 void sente(){
